@@ -14,4 +14,3 @@ bot = Bot(
 
 bot.start()
 run()
-© 2021 GitHub, Inc.
