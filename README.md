@@ -1,5 +1,6 @@
 <h1 align="center">
-  <b> 𝐌𝐞𝐧𝐓𝐚𝐥 𝐌𝐮𝐒𝐢𝐜 𝐁𝐨𝐭 </b>
+  <b> 𝐌𝐄𝐍𝐓𝐀𝐋 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 </b>
 </h1>
 
-<b>A stable pluggable 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙪𝙨𝙚𝙧𝙗𝙤𝙩</b>  
+<b> 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈𝙪𝙨𝙞𝙘 𝘽𝙤𝙩</b>  
+This music bot will play music in voice chat in Telegram.
