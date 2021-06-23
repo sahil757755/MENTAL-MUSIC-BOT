@@ -5,4 +5,4 @@
 <b> 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙈𝙪𝙨𝙞𝙘 𝘽𝙤𝙩</b>  
 
 
-This music bot will play music in <b> voice chat </b> in <b> Telegram </b>
+This music bot will play music in 𝑽𝒐𝒊𝒄𝒆 𝒄𝒉𝒂𝒕 in 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎...
