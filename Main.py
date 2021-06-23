@@ -1,0 +1,17 @@
+from pyrogram import Client as Bot
+
+from tgcalls import run
+from config import API_ID, API_HASH, BOT_TOKEN
+
+
+bot = Bot(
+    ":memory:",
+    API_ID,
+    API_HASH,
+    bot_token=BOT_TOKEN,
+    plugins=dict(root="handlers")
+)
+
+bot.start()
+run()
+© 2021 GitHub, Inc.
